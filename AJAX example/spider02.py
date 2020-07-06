@@ -36,7 +36,7 @@ class foodcom(scrapy.Spider):
         for i in range (8):
             link = (res['itemListElement'][i]['url'])
             print(link)
-        #
+        
         # add next_page code here
         # next_page =
 
