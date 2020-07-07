@@ -7,5 +7,7 @@ import scrapy
 
 
 class FoodcomItem(scrapy.Item):
-    # define the fields for your item here like:
-    link = scrapy.Field()
+
+    recipe = scrapy.Field()
+    ingredients = scrapy.Field()
+    name = scrapy.Field()
