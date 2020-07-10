@@ -9,3 +9,8 @@ YouTube videos coming soon
 
 Playlist : https://bit.ly/2ZUzWLH
 
+<img src="https://github.com/RGGH/Misc/blob/master/fdcom.png" style="margin: 0 auto;">
+
+
+
+
