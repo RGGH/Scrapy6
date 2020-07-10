@@ -1,6 +1,6 @@
 # Scrapy6
 
-web scraping food.com with scrapy
+Web scraping food.com with scrapy
 
 INFINITE SCROLL,
 AJAX PAGINATION,
