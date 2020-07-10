@@ -7,3 +7,5 @@ AJAX PAGINATION
 
 YouTube videos coming soon
 
+Playlist : https://bit.ly/2ZUzWLH
+
