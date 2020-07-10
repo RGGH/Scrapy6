@@ -2,8 +2,10 @@
 
 web scraping food.com with scrapy
 
-INFINITE SCROLL
-AJAX PAGINATION
+INFINITE SCROLL,
+AJAX PAGINATION,
+LOAD MORE,
+MORE RESULTS,
 
 Link to Playlist : https://bit.ly/2ZUzWLH
 
